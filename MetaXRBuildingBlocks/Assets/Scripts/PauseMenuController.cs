@@ -4,14 +4,22 @@ public class PauseMenuController : MonoBehaviour
 {
     public GameObject menu;
     public Transform head;
-    public float distance = 1.5f;
+    public float distance = 1.0f;
     public float height = 0f;
+
+    [Header("Paneles")]
+    public GameObject panelPrincipal;
+    public GameObject panelAjustes;
+    public GameObject panelControles;
+
+    [Header("Paneles de la V (solo en Ajustes)")]
+    public GameObject[] panelesAjustes;
 
     [Header("Seguimiento")]
     public bool follow = true;
     public float positionSmoothing = 4f;
     public float rotationSmoothing = 4f;
-    public float angleDeadZone = 20f;
+    public float angleDeadZone = 15f;
 
     bool open;
 
@@ -42,14 +50,22 @@ public class PauseMenuController : MonoBehaviour
         }
     }
 
-    public void Toggle()
-    {
-        SetOpen(!open);
-    }
+    public void Toggle() { SetOpen(!open); }
+    public void Resume() { SetOpen(false); }
 
-    public void Resume()
+    public void ShowMain() { ShowPanel(true, false, false); }
+    public void ShowSettings() { ShowPanel(false, true, false); }
+    public void ShowControls() { ShowPanel(false, false, true); }
+
+    void ShowPanel(bool principal, bool ajustes, bool controles)
     {
-        SetOpen(false);
+        if (panelPrincipal != null) panelPrincipal.SetActive(principal);
+        if (panelAjustes != null) panelAjustes.SetActive(ajustes);
+        if (panelControles != null) panelControles.SetActive(controles);
+
+        if (panelesAjustes != null)
+            foreach (var p in panelesAjustes)
+                if (p != null) p.SetActive(ajustes);
     }
 
     Vector3 FlatForward()
@@ -66,6 +82,8 @@ public class PauseMenuController : MonoBehaviour
 
         if (open)
         {
+            ShowMain();
+
             Vector3 forward = FlatForward();
             menu.transform.position = head.position + forward * distance + Vector3.up * height;
             menu.transform.rotation = Quaternion.LookRotation(forward);
