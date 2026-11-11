@@ -91,7 +91,7 @@ MonoBehaviour:
   m_AssetVersion: 3
   m_PrepassLayerMask:
     serializedVersion: 2
-    m_Bits: 4294967295
+    m_Bits: 383
   m_OpaqueLayerMask:
     serializedVersion: 2
     m_Bits: 119
@@ -139,7 +139,7 @@ MonoBehaviour:
     overrideMaterialPassIndex: 0
     overrideShader: {fileID: 0}
     overrideShaderPassIndex: 0
-    overrideMode: 1
+    overrideMode: 0
     overrideDepthState: 1
     depthCompareFunction: 4
     enableWrite: 1
