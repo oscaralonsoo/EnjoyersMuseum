@@ -502,7 +502,7 @@ GameObject:
   - component: {fileID: 118721480}
   - component: {fileID: 118721479}
   - component: {fileID: 118721478}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: ISDK_RayCanvasInteraction
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1618,6 +1618,17 @@ GameObject:
   m_CorrespondingSourceObject: {fileID: 2978571458893240916, guid: 0a7d2469f24041c4284c66706f84c45e, type: 3}
   m_PrefabInstance: {fileID: 815576766}
   m_PrefabAsset: {fileID: 0}
+--- !u!114 &371991105 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 4147102894439380630, guid: 0a7d2469f24041c4284c66706f84c45e, type: 3}
+  m_PrefabInstance: {fileID: 815576766}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 371991102}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: be5585168c67af345b1074140733215b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &378222137
 GameObject:
   m_ObjectHideFlags: 0
@@ -2156,7 +2167,7 @@ GameObject:
   - component: {fileID: 457895302}
   - component: {fileID: 457895301}
   - component: {fileID: 457895300}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: ISDK_RayCanvasInteraction
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3458,12 +3469,20 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2148673767922673074, guid: 0a7d2469f24041c4284c66706f84c45e, type: 3}
       propertyPath: _broadcasters.Array.size
-      value: 4
+      value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 2148673767922673074, guid: 0a7d2469f24041c4284c66706f84c45e, type: 3}
+      propertyPath: '_broadcasters.Array.data[0]'
+      value: 
+      objectReference: {fileID: 371991105}
+    - target: {fileID: 2148673767922673074, guid: 0a7d2469f24041c4284c66706f84c45e, type: 3}
+      propertyPath: '_broadcasters.Array.data[1]'
+      value: 
+      objectReference: {fileID: 275722092}
     - target: {fileID: 2148673767922673074, guid: 0a7d2469f24041c4284c66706f84c45e, type: 3}
       propertyPath: '_broadcasters.Array.data[2]'
       value: 
-      objectReference: {fileID: 1088886812}
+      objectReference: {fileID: 275722092}
     - target: {fileID: 2148673767922673074, guid: 0a7d2469f24041c4284c66706f84c45e, type: 3}
       propertyPath: '_broadcasters.Array.data[3]'
       value: 
@@ -3478,12 +3497,16 @@ PrefabInstance:
       objectReference: {fileID: 176473610}
     - target: {fileID: 2614773159253311454, guid: 0a7d2469f24041c4284c66706f84c45e, type: 3}
       propertyPath: _broadcasters.Array.size
-      value: 4
+      value: 3
       objectReference: {fileID: 0}
+    - target: {fileID: 2614773159253311454, guid: 0a7d2469f24041c4284c66706f84c45e, type: 3}
+      propertyPath: '_broadcasters.Array.data[1]'
+      value: 
+      objectReference: {fileID: 1331954380}
     - target: {fileID: 2614773159253311454, guid: 0a7d2469f24041c4284c66706f84c45e, type: 3}
       propertyPath: '_broadcasters.Array.data[2]'
       value: 
-      objectReference: {fileID: 1331954380}
+      objectReference: {fileID: 710703913}
     - target: {fileID: 2614773159253311454, guid: 0a7d2469f24041c4284c66706f84c45e, type: 3}
       propertyPath: '_broadcasters.Array.data[3]'
       value: 
@@ -4756,17 +4779,6 @@ Transform:
   - {fileID: 418190415}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &1088886812 stripped
-MonoBehaviour:
-  m_CorrespondingSourceObject: {fileID: 3725902998641757587, guid: 0a7d2469f24041c4284c66706f84c45e, type: 3}
-  m_PrefabInstance: {fileID: 815576766}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 5ab90b5d07fb7e240975058b36a342a4, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!1 &1091864975
 GameObject:
   m_ObjectHideFlags: 0
@@ -4779,7 +4791,7 @@ GameObject:
   - component: {fileID: 1091864979}
   - component: {fileID: 1091864978}
   - component: {fileID: 1091864977}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: ISDK_RayCanvasInteraction
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6572,7 +6584,7 @@ GameObject:
   - component: {fileID: 1487578545}
   - component: {fileID: 1487578544}
   - component: {fileID: 1487578543}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Surface
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7249,7 +7261,7 @@ GameObject:
   - component: {fileID: 1650068773}
   - component: {fileID: 1650068772}
   - component: {fileID: 1650068771}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Surface
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7612,7 +7624,7 @@ GameObject:
   - component: {fileID: 1717307879}
   - component: {fileID: 1717307878}
   - component: {fileID: 1717307877}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Surface
   m_TagString: Untagged
   m_Icon: {fileID: 0}
