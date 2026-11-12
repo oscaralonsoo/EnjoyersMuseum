@@ -16,6 +16,7 @@ GameObject:
   - component: {fileID: 3337787466951598969}
   - component: {fileID: 6602495465428390493}
   - component: {fileID: 5778516012973843878}
+  - component: {fileID: 1181885937672129142}
   m_Layer: 0
   m_Name: EstikGem
   m_TagString: Untagged
@@ -202,6 +203,26 @@ MonoBehaviour:
   _snapDistance: 0.75
   _gravityWhenReleased: 1
   _maxReleaseSpeed: 3
+--- !u!114 &1181885937672129142
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4521643004263444956}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3feb4bc7bc51fe6498dce3aa363df9a8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::GemFloat
+  _rotationSpeed: {x: 0, y: 50, z: 0}
+  _rotateBackSpeed: 75
+  _bobHeight: 0.01
+  _bobSpeed: 0.1
+  _returnRadius: 0.3
+  _returnSpeed: 1.5
+  _grabbable: {fileID: 3027393884409452512}
+  _snapInteractor: {fileID: 3371813801092685738}
 --- !u!1 &4909541572189946603
 GameObject:
   m_ObjectHideFlags: 0

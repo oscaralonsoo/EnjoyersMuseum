@@ -31,6 +31,11 @@ TagManager:
   - SamplesInfoPanel
   - QDSUIToggleCheckboxRadio
   - QDSUIToggleThumbnail
+  - Ball
+  - Floor
+  - Post
+  - Goal
+  - Area
   layers:
   - Default
   - TransparentFX
@@ -63,7 +68,7 @@ TagManager:
   - 
   - 
   - 
-  - 
+  - OVROverlayCanvas Rendering
   m_SortingLayers:
   - name: Default
     uniqueID: 0

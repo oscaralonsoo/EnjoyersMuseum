@@ -1672,17 +1672,6 @@ MonoBehaviour:
     m_RotationOrder: 4
   startScale: 0.85
   slideOffset: {x: 0, y: -30}
---- !u!114 &308910622 stripped
-MonoBehaviour:
-  m_CorrespondingSourceObject: {fileID: 6877519082364218479, guid: 653781aeee9bdd84096f12fa7ae186d4, type: 3}
-  m_PrefabInstance: {fileID: 5003346194768681493}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 2756c251a8363df4f9d4b30ee6414bd9, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: Oculus.Interaction::Oculus.Interaction.SnapInteractor
 --- !u!4 &327009753 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 4101813739458636823, guid: 41ddbe6fdf4ce1947a058550ef3bb53f, type: 3}
@@ -2709,17 +2698,6 @@ MonoBehaviour:
     m_RotationOrder: 4
   startScale: 0.85
   slideOffset: {x: 0, y: -30}
---- !u!114 &423415881 stripped
-MonoBehaviour:
-  m_CorrespondingSourceObject: {fileID: 1670962069070988766, guid: 1ca9f534b6800f543b935cd51b1a974a, type: 3}
-  m_PrefabInstance: {fileID: 7025742968765474564}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 2756c251a8363df4f9d4b30ee6414bd9, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: Oculus.Interaction::Oculus.Interaction.SnapInteractor
 --- !u!1 &442331515
 GameObject:
   m_ObjectHideFlags: 0
@@ -4129,42 +4107,6 @@ MonoBehaviour:
     m_RotationOrder: 4
   startScale: 0.85
   slideOffset: {x: 0, y: -30}
---- !u!1 &791763970 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 4521643004263444956, guid: 41ddbe6fdf4ce1947a058550ef3bb53f, type: 3}
-  m_PrefabInstance: {fileID: 4594000864105996829}
-  m_PrefabAsset: {fileID: 0}
---- !u!114 &791763972 stripped
-MonoBehaviour:
-  m_CorrespondingSourceObject: {fileID: 3027393884409452512, guid: 41ddbe6fdf4ce1947a058550ef3bb53f, type: 3}
-  m_PrefabInstance: {fileID: 4594000864105996829}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 791763970}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 43f86b14a27b52f4f9298c33015b5c26, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: Oculus.Interaction::Oculus.Interaction.Grabbable
---- !u!114 &791763978
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 791763970}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 3feb4bc7bc51fe6498dce3aa363df9a8, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::GemFloat
-  _rotationSpeed: {x: 0, y: 50, z: 0}
-  _rotateBackSpeed: 60
-  _bobHeight: 0.01
-  _bobSpeed: 0.1
-  _returnRadius: 0.3
-  _returnSpeed: 1.5
-  _grabbable: {fileID: 791763972}
-  _snapInteractor: {fileID: 2129909079}
 --- !u!1 &803649338
 GameObject:
   m_ObjectHideFlags: 0
@@ -4903,11 +4845,6 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!1 &846657359 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 5311336917839003318, guid: 1ca9f534b6800f543b935cd51b1a974a, type: 3}
-  m_PrefabInstance: {fileID: 7025742968765474564}
-  m_PrefabAsset: {fileID: 0}
 --- !u!1 &868395093
 GameObject:
   m_ObjectHideFlags: 0
@@ -5536,11 +5473,6 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 957395089}
   m_CullTransparentMesh: 1
---- !u!1 &960526840 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 6535573973760029265, guid: 653781aeee9bdd84096f12fa7ae186d4, type: 3}
-  m_PrefabInstance: {fileID: 5003346194768681493}
-  m_PrefabAsset: {fileID: 0}
 --- !u!1 &977291710
 GameObject:
   m_ObjectHideFlags: 0
@@ -6251,11 +6183,6 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1100097819}
   m_CullTransparentMesh: 1
---- !u!1 &1140450182 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 4521643004263444956, guid: 41ddbe6fdf4ce1947a058550ef3bb53f, type: 3}
-  m_PrefabInstance: {fileID: 4594000864105996829}
-  m_PrefabAsset: {fileID: 0}
 --- !u!1 &1150333059
 GameObject:
   m_ObjectHideFlags: 0
@@ -7786,7 +7713,7 @@ MonoBehaviour:
   - {fileID: 55582564}
   - {fileID: 657134101}
   - {fileID: 10794061}
-  - {fileID: 1140450182}
+  - {fileID: 0}
 --- !u!4 &1423052001
 Transform:
   m_ObjectHideFlags: 0
@@ -8898,37 +8825,6 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 6662060857362343744, guid: 1ca9f534b6800f543b935cd51b1a974a, type: 3}
   m_PrefabInstance: {fileID: 7025742968765474564}
   m_PrefabAsset: {fileID: 0}
---- !u!114 &1603596551 stripped
-MonoBehaviour:
-  m_CorrespondingSourceObject: {fileID: 3732601505744752220, guid: 1ca9f534b6800f543b935cd51b1a974a, type: 3}
-  m_PrefabInstance: {fileID: 7025742968765474564}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 846657359}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 43f86b14a27b52f4f9298c33015b5c26, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: Oculus.Interaction::Oculus.Interaction.Grabbable
---- !u!114 &1603596557
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 846657359}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 3feb4bc7bc51fe6498dce3aa363df9a8, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::GemFloat
-  _rotationSpeed: {x: 0, y: 50, z: 0}
-  _rotateBackSpeed: 60
-  _bobHeight: 0.01
-  _bobSpeed: 0.1
-  _returnRadius: 0.3
-  _returnSpeed: 1.5
-  _grabbable: {fileID: 1603596551}
-  _snapInteractor: {fileID: 423415881}
 --- !u!1 &1635495597
 GameObject:
   m_ObjectHideFlags: 0
@@ -11705,17 +11601,6 @@ MonoBehaviour:
     m_RotationOrder: 4
   startScale: 0.85
   slideOffset: {x: 0, y: -30}
---- !u!114 &2129909079 stripped
-MonoBehaviour:
-  m_CorrespondingSourceObject: {fileID: 3371813801092685738, guid: 41ddbe6fdf4ce1947a058550ef3bb53f, type: 3}
-  m_PrefabInstance: {fileID: 4594000864105996829}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 2756c251a8363df4f9d4b30ee6414bd9, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: Oculus.Interaction::Oculus.Interaction.SnapInteractor
 --- !u!1 &2139543616
 GameObject:
   m_ObjectHideFlags: 0
@@ -12316,37 +12201,6 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 5455620050205673238, guid: 653781aeee9bdd84096f12fa7ae186d4, type: 3}
   m_PrefabInstance: {fileID: 5003346194768681493}
   m_PrefabAsset: {fileID: 0}
---- !u!114 &3795816732721492326 stripped
-MonoBehaviour:
-  m_CorrespondingSourceObject: {fileID: 2469644896357554984, guid: 653781aeee9bdd84096f12fa7ae186d4, type: 3}
-  m_PrefabInstance: {fileID: 5003346194768681493}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 960526840}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 43f86b14a27b52f4f9298c33015b5c26, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: Oculus.Interaction::Oculus.Interaction.Grabbable
---- !u!114 &3795816732721492332
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 960526840}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 3feb4bc7bc51fe6498dce3aa363df9a8, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::GemFloat
-  _rotationSpeed: {x: 0, y: 50, z: 0}
-  _rotateBackSpeed: 60
-  _bobHeight: 0.01
-  _bobSpeed: 0.1
-  _returnRadius: 0.3
-  _returnSpeed: 1.5
-  _grabbable: {fileID: 3795816732721492326}
-  _snapInteractor: {fileID: 308910622}
 --- !u!1 &3863138313684873007
 GameObject:
   m_ObjectHideFlags: 0
@@ -12637,10 +12491,7 @@ PrefabInstance:
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents:
-    - targetCorrespondingSourceObject: {fileID: 4521643004263444956, guid: 41ddbe6fdf4ce1947a058550ef3bb53f, type: 3}
-      insertIndex: -1
-      addedObject: {fileID: 791763978}
+    m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 41ddbe6fdf4ce1947a058550ef3bb53f, type: 3}
 --- !u!1 &4594505117313744656
 GameObject:
@@ -12715,10 +12566,7 @@ PrefabInstance:
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents:
-    - targetCorrespondingSourceObject: {fileID: 6535573973760029265, guid: 653781aeee9bdd84096f12fa7ae186d4, type: 3}
-      insertIndex: -1
-      addedObject: {fileID: 3795816732721492332}
+    m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 653781aeee9bdd84096f12fa7ae186d4, type: 3}
 --- !u!33 &5067343011633511849
 MeshFilter:
@@ -13071,10 +12919,7 @@ PrefabInstance:
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents:
-    - targetCorrespondingSourceObject: {fileID: 5311336917839003318, guid: 1ca9f534b6800f543b935cd51b1a974a, type: 3}
-      insertIndex: -1
-      addedObject: {fileID: 1603596557}
+    m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 1ca9f534b6800f543b935cd51b1a974a, type: 3}
 --- !u!4 &7690872168010933937
 Transform:
