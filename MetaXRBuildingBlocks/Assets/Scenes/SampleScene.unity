@@ -119,6 +119,11 @@ NavMeshSettings:
     debug:
       m_Flags: 0
   m_NavMeshData: {fileID: 0}
+--- !u!1 &10794061 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 5311336917839003318, guid: 1ca9f534b6800f543b935cd51b1a974a, type: 3}
+  m_PrefabInstance: {fileID: 7025742968765474564}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &19207346
 GameObject:
   m_ObjectHideFlags: 0
@@ -3674,6 +3679,11 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 6066616387949743727, guid: cdafbd9b89fc25f4a83120e28bec3afd, type: 3}
   m_PrefabInstance: {fileID: 652913516}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &657134101 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 6535573973760029265, guid: 653781aeee9bdd84096f12fa7ae186d4, type: 3}
+  m_PrefabInstance: {fileID: 5003346194768681493}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &670670671
 GameObject:
   m_ObjectHideFlags: 0
@@ -6241,6 +6251,11 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1100097819}
   m_CullTransparentMesh: 1
+--- !u!1 &1140450182 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 4521643004263444956, guid: 41ddbe6fdf4ce1947a058550ef3bb53f, type: 3}
+  m_PrefabInstance: {fileID: 4594000864105996829}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &1150333059
 GameObject:
   m_ObjectHideFlags: 0
@@ -7767,6 +7782,11 @@ MonoBehaviour:
   portalRenderer: {fileID: 2050503339}
   head: {fileID: 176473609}
   fullStencil: {fileID: 1760575699}
+  disableOnCross:
+  - {fileID: 55582564}
+  - {fileID: 657134101}
+  - {fileID: 10794061}
+  - {fileID: 1140450182}
 --- !u!4 &1423052001
 Transform:
   m_ObjectHideFlags: 0
