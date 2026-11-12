@@ -178,6 +178,7 @@ GameObject:
   - component: {fileID: 5269751170146790994}
   - component: {fileID: 1627158923974580963}
   - component: {fileID: 6786138482980421527}
+  - component: {fileID: 3417710981608934012}
   m_Layer: 0
   m_Name: SonOfIthacaGem
   m_TagString: Untagged
@@ -364,6 +365,26 @@ MonoBehaviour:
   _snapDistance: 0.75
   _gravityWhenReleased: 1
   _maxReleaseSpeed: 3
+--- !u!114 &3417710981608934012
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5311336917839003318}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3feb4bc7bc51fe6498dce3aa363df9a8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::GemFloat
+  _rotationSpeed: {x: 0, y: 50, z: 0}
+  _rotateBackSpeed: 75
+  _bobHeight: 0.01
+  _bobSpeed: 0.1
+  _returnRadius: 0.3
+  _returnSpeed: 1.5
+  _grabbable: {fileID: 3732601505744752220}
+  _snapInteractor: {fileID: 1670962069070988766}
 --- !u!1 &6494288674461031169
 GameObject:
   m_ObjectHideFlags: 0

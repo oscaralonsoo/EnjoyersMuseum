@@ -4107,42 +4107,6 @@ MonoBehaviour:
     m_RotationOrder: 4
   startScale: 0.85
   slideOffset: {x: 0, y: -30}
---- !u!1 &791763970 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 4521643004263444956, guid: 41ddbe6fdf4ce1947a058550ef3bb53f, type: 3}
-  m_PrefabInstance: {fileID: 4594000864105996829}
-  m_PrefabAsset: {fileID: 0}
---- !u!114 &791763972 stripped
-MonoBehaviour:
-  m_CorrespondingSourceObject: {fileID: 3027393884409452512, guid: 41ddbe6fdf4ce1947a058550ef3bb53f, type: 3}
-  m_PrefabInstance: {fileID: 4594000864105996829}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 791763970}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 43f86b14a27b52f4f9298c33015b5c26, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: Oculus.Interaction::Oculus.Interaction.Grabbable
---- !u!114 &791763978
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 791763970}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 3feb4bc7bc51fe6498dce3aa363df9a8, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::GemFloat
-  _rotationSpeed: {x: 0, y: 50, z: 0}
-  _rotateBackSpeed: 60
-  _bobHeight: 0.01
-  _bobSpeed: 0.1
-  _returnRadius: 0.3
-  _returnSpeed: 1.5
-  _grabbable: {fileID: 791763972}
-  _snapInteractor: {fileID: 2129909079}
 --- !u!1 &803649338
 GameObject:
   m_ObjectHideFlags: 0
@@ -11728,17 +11692,6 @@ MonoBehaviour:
     m_RotationOrder: 4
   startScale: 0.85
   slideOffset: {x: 0, y: -30}
---- !u!114 &2129909079 stripped
-MonoBehaviour:
-  m_CorrespondingSourceObject: {fileID: 3371813801092685738, guid: 41ddbe6fdf4ce1947a058550ef3bb53f, type: 3}
-  m_PrefabInstance: {fileID: 4594000864105996829}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 2756c251a8363df4f9d4b30ee6414bd9, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: Oculus.Interaction::Oculus.Interaction.SnapInteractor
 --- !u!1 &2139543616
 GameObject:
   m_ObjectHideFlags: 0
@@ -12629,10 +12582,7 @@ PrefabInstance:
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents:
-    - targetCorrespondingSourceObject: {fileID: 4521643004263444956, guid: 41ddbe6fdf4ce1947a058550ef3bb53f, type: 3}
-      insertIndex: -1
-      addedObject: {fileID: 791763978}
+    m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 41ddbe6fdf4ce1947a058550ef3bb53f, type: 3}
 --- !u!1 &4594505117313744656
 GameObject:
