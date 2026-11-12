@@ -504,6 +504,7 @@ MonoBehaviour:
   _cover:
   - {fileID: 0}
   _openSound: {fileID: 0}
+  _gemSnapRenderer: {fileID: 6845408228231428825}
   _closeWhenGemRemoved: 1
 --- !u!1 &76705167 stripped
 GameObject:
@@ -1961,7 +1962,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &368746520
 RectTransform:
   m_ObjectHideFlags: 0
