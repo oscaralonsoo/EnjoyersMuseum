@@ -32,6 +32,8 @@ public class PortalActivator : MonoBehaviour
     [Header("Opciones")]
     [SerializeField] private bool _closeWhenGemRemoved = true;
 
+    public Gem CurrentGem { get; private set; }
+
     private WorldEntry _current;
 
     private void Reset()
@@ -81,18 +83,18 @@ public class PortalActivator : MonoBehaviour
             return;
         }
 
-        // Ocultar MeshRenderer del GemSnap
         if (_gemSnapRenderer != null)
             _gemSnapRenderer.enabled = false;
 
+        CurrentGem = gem;
         Open(entry);
     }
 
     private void OnGemRemoved(SnapInteractor interactor)
     {
-        // Volver a mostrar MeshRenderer del GemSnap
         if (_gemSnapRenderer != null)
             _gemSnapRenderer.enabled = true;
+        CurrentGem = null;
 
         if (_closeWhenGemRemoved)
             CloseAll();

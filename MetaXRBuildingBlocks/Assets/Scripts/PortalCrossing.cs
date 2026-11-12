@@ -8,13 +8,17 @@ public class PortalCrossing : MonoBehaviour
     public Transform head;
     public GameObject fullStencil;
 
+    [Header("Gema en uso")]
+    public PortalActivator activator;
+
     [Header("Objetos que se desactivan al cruzar el portal")]
-    [Tooltip("Se desactivan al entrar y se reactivan al volver a cruzar.")]
     public List<GameObject> disableOnCross = new List<GameObject>();
 
     bool inside;
     float prevZ;
     bool hasPrev;
+
+    readonly List<GameObject> _hiddenNested = new List<GameObject>();
 
     void Update()
     {
@@ -35,15 +39,63 @@ public class PortalCrossing : MonoBehaviour
         inside = value;
         if (fullStencil != null) fullStencil.SetActive(inside);
 
-        // Al entrar se desactivan, al salir se reactivan
-        for (int i = 0; i < disableOnCross.Count; i++)
-        {
-            if (disableOnCross[i] != null)
-                disableOnCross[i].SetActive(!inside);
-        }
+        if (inside) HideAll();
+        else ShowAll();
 
         Material m = portalRenderer.material;
         m.SetFloat("_Ref", inside ? 0f : 1f);
         m.SetFloat("_Cull", inside ? 0f : 2f);
+    }
+
+    void HideAll()
+    {
+        Transform gem = (activator != null && activator.CurrentGem != null)
+            ? activator.CurrentGem.transform
+            : null;
+
+        for (int i = 0; i < disableOnCross.Count; i++)
+        {
+            GameObject go = disableOnCross[i];
+            if (go == null) continue;
+
+            if (gem != null && gem.IsChildOf(go.transform))
+            {
+                if (go.transform != gem) HideAllExcept(go.transform, gem);
+            }
+            else
+            {
+                go.SetActive(false);
+            }
+        }
+    }
+    void HideAllExcept(Transform parent, Transform gem)
+    {
+        foreach (Transform child in parent)
+        {
+            if (child == gem) continue;
+
+            if (gem.IsChildOf(child))
+            {
+                HideAllExcept(child, gem);
+                continue;
+            }
+
+            if (child.gameObject.activeSelf)
+            {
+                child.gameObject.SetActive(false);
+                _hiddenNested.Add(child.gameObject);
+            }
+        }
+    }
+
+    void ShowAll()
+    {
+        for (int i = 0; i < disableOnCross.Count; i++)
+            if (disableOnCross[i] != null) disableOnCross[i].SetActive(true);
+
+        for (int i = 0; i < _hiddenNested.Count; i++)
+            if (_hiddenNested[i] != null) _hiddenNested[i].SetActive(true);
+
+        _hiddenNested.Clear();
     }
 }
