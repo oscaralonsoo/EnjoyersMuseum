@@ -119,11 +119,6 @@ NavMeshSettings:
     debug:
       m_Flags: 0
   m_NavMeshData: {fileID: 0}
---- !u!1 &10794061 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 5311336917839003318, guid: 1ca9f534b6800f543b935cd51b1a974a, type: 3}
-  m_PrefabInstance: {fileID: 7025742968765474564}
-  m_PrefabAsset: {fileID: 0}
 --- !u!1 &19207346
 GameObject:
   m_ObjectHideFlags: 0
@@ -356,7 +351,7 @@ Transform:
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: -3.3, y: 0, z: -8.23}
-  m_LocalScale: {x: 2, y: 1, z: 2}
+  m_LocalScale: {x: 14.104872, y: 1, z: 9.330635}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 1926814239}
@@ -504,6 +499,7 @@ MonoBehaviour:
   _cover:
   - {fileID: 0}
   _openSound: {fileID: 0}
+  _gemSnapRenderer: {fileID: 6845408228231428825}
   _closeWhenGemRemoved: 1
 --- !u!1 &76705167 stripped
 GameObject:
@@ -3652,11 +3648,6 @@ PrefabInstance:
 Transform:
   m_CorrespondingSourceObject: {fileID: 6066616387949743727, guid: cdafbd9b89fc25f4a83120e28bec3afd, type: 3}
   m_PrefabInstance: {fileID: 652913516}
-  m_PrefabAsset: {fileID: 0}
---- !u!1 &657134101 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 6535573973760029265, guid: 653781aeee9bdd84096f12fa7ae186d4, type: 3}
-  m_PrefabInstance: {fileID: 5003346194768681493}
   m_PrefabAsset: {fileID: 0}
 --- !u!1 &670670671
 GameObject:
@@ -7707,9 +7698,7 @@ MonoBehaviour:
   fullStencil: {fileID: 1760575699}
   disableOnCross:
   - {fileID: 55582564}
-  - {fileID: 657134101}
-  - {fileID: 10794061}
-  - {fileID: 0}
+  - {fileID: 1542483504}
 --- !u!4 &1423052001
 Transform:
   m_ObjectHideFlags: 0

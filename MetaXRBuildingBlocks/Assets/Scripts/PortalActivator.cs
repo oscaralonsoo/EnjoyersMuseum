@@ -1,3 +1,4 @@
+
 using System;
 using Oculus.Interaction;
 using UnityEngine;
@@ -10,8 +11,10 @@ public class PortalActivator : MonoBehaviour
     {
         [Tooltip("Debe coincidir con el WorldId de la gema.")]
         public string worldId;
-        [Tooltip("Objeto con todo el mundo de este portal. Se activa al incrustar la gema.")]
+
+        [Tooltip("Objeto con todo el mundo de este portal.")]
         public GameObject world;
+
         public UnityEvent onOpened;
     }
 
@@ -21,12 +24,14 @@ public class PortalActivator : MonoBehaviour
     [SerializeField] private WorldEntry[] _worlds;
 
     [Header("Comun a todos los mundos")]
-    [Tooltip("Tapon que cubre el hueco del portal. Se desactiva al abrir y se reactiva al cerrar.")]
     [SerializeField] private GameObject[] _cover;
     [SerializeField] private AudioSource _openSound;
 
+    [Header("Gem Snap")]
+    [Tooltip("MeshRenderer que se oculta al colocar la gema.")]
+    [SerializeField] private MeshRenderer _gemSnapRenderer;
+
     [Header("Opciones")]
-    [Tooltip("Si se saca la gema, el portal se cierra. Si no, queda abierto.")]
     [SerializeField] private bool _closeWhenGemRemoved = true;
 
     private WorldEntry _current;
@@ -39,11 +44,15 @@ public class PortalActivator : MonoBehaviour
     private void Start()
     {
         CloseAll();
+
+        if (_gemSnapRenderer != null)
+            _gemSnapRenderer.enabled = true;
     }
 
     private void OnEnable()
     {
         if (_snapInteractable == null) return;
+
         _snapInteractable.WhenSelectingInteractorAdded.Action += OnGemSnapped;
         _snapInteractable.WhenSelectingInteractorRemoved.Action += OnGemRemoved;
     }
@@ -51,6 +60,7 @@ public class PortalActivator : MonoBehaviour
     private void OnDisable()
     {
         if (_snapInteractable == null) return;
+
         _snapInteractable.WhenSelectingInteractorAdded.Action -= OnGemSnapped;
         _snapInteractable.WhenSelectingInteractorRemoved.Action -= OnGemRemoved;
     }
@@ -58,6 +68,7 @@ public class PortalActivator : MonoBehaviour
     private void OnGemSnapped(SnapInteractor interactor)
     {
         Gem gem = interactor.GetComponentInParent<Gem>();
+
         if (gem == null)
         {
             Debug.LogWarning("PortalActivator: la pieza incrustada no tiene componente Gem.", this);
@@ -65,17 +76,26 @@ public class PortalActivator : MonoBehaviour
         }
 
         WorldEntry entry = FindWorld(gem.WorldId);
+
         if (entry == null)
         {
             Debug.LogWarning($"PortalActivator: no hay mundo para el WorldId '{gem.WorldId}'.", this);
             return;
         }
 
+        // Ocultar MeshRenderer del GemSnap
+        if (_gemSnapRenderer != null)
+            _gemSnapRenderer.enabled = false;
+
         Open(entry);
     }
 
     private void OnGemRemoved(SnapInteractor interactor)
     {
+        // Volver a mostrar MeshRenderer del GemSnap
+        if (_gemSnapRenderer != null)
+            _gemSnapRenderer.enabled = true;
+
         if (_closeWhenGemRemoved)
             CloseAll();
     }
@@ -83,20 +103,32 @@ public class PortalActivator : MonoBehaviour
     private WorldEntry FindWorld(string id)
     {
         foreach (WorldEntry w in _worlds)
-            if (w != null && w.worldId == id) return w;
+        {
+            if (w != null && w.worldId == id)
+                return w;
+        }
+
         return null;
     }
 
     private void Open(WorldEntry entry)
     {
         CloseAll();
+
         _current = entry;
 
-        if (entry.world != null) entry.world.SetActive(true);
-        foreach (GameObject c in _cover)
-            if (c != null) c.SetActive(false);
+        if (entry.world != null)
+            entry.world.SetActive(true);
 
-        if (_openSound != null) _openSound.Play();
+        foreach (GameObject c in _cover)
+        {
+            if (c != null)
+                c.SetActive(false);
+        }
+
+        if (_openSound != null)
+            _openSound.Play();
+
         entry.onOpened?.Invoke();
     }
 
@@ -105,8 +137,15 @@ public class PortalActivator : MonoBehaviour
         _current = null;
 
         foreach (WorldEntry w in _worlds)
-            if (w != null && w.world != null) w.world.SetActive(false);
+        {
+            if (w != null && w.world != null)
+                w.world.SetActive(false);
+        }
+
         foreach (GameObject c in _cover)
-            if (c != null) c.SetActive(true);
+        {
+            if (c != null)
+                c.SetActive(true);
+        }
     }
 }
