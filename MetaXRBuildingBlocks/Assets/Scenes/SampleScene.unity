@@ -2073,7 +2073,7 @@ MonoBehaviour:
   shape: 0
   curveRadius: 1
   overlapMask: 0
-  compositionMode: 1
+  compositionMode: 2
   enable3D: 0
   depthRange: 0.5
   _overlayEnabled: 1
