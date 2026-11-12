@@ -1,3 +1,4 @@
+using System.Collections.Generic;
 using UnityEngine;
 
 public class PortalCrossing : MonoBehaviour
@@ -6,6 +7,10 @@ public class PortalCrossing : MonoBehaviour
     public Renderer portalRenderer;
     public Transform head;
     public GameObject fullStencil;
+
+    [Header("Objetos que se desactivan al cruzar el portal")]
+    [Tooltip("Se desactivan al entrar y se reactivan al volver a cruzar.")]
+    public List<GameObject> disableOnCross = new List<GameObject>();
 
     bool inside;
     float prevZ;
@@ -29,6 +34,13 @@ public class PortalCrossing : MonoBehaviour
     {
         inside = value;
         if (fullStencil != null) fullStencil.SetActive(inside);
+
+        // Al entrar se desactivan, al salir se reactivan
+        for (int i = 0; i < disableOnCross.Count; i++)
+        {
+            if (disableOnCross[i] != null)
+                disableOnCross[i].SetActive(!inside);
+        }
 
         Material m = portalRenderer.material;
         m.SetFloat("_Ref", inside ? 0f : 1f);
