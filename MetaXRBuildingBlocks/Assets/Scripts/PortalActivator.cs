@@ -9,7 +9,6 @@ public class PortalActivator : MonoBehaviour
     [Serializable]
     public class WorldEntry
     {
-        [Tooltip("Debe coincidir con el WorldId de la gema.")]
         public string worldId;
 
         [Tooltip("Objeto con todo el mundo de este portal.")]
@@ -20,7 +19,7 @@ public class PortalActivator : MonoBehaviour
 
     [SerializeField] private SnapInteractable _snapInteractable;
 
-    [Header("Mundos (uno por tipo de gema)")]
+    [Header("Mundos")]
     [SerializeField] private WorldEntry[] _worlds;
 
     [Header("Comun a todos los mundos")]
