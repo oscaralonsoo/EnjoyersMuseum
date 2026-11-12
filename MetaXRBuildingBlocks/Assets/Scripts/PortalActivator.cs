@@ -8,25 +8,21 @@ public class PortalActivator : MonoBehaviour
     [Serializable]
     public class WorldEntry
     {
-        [Tooltip("Debe coincidir con el WorldId de la gema.")]
         public string worldId;
-        [Tooltip("Objeto con todo el mundo de este portal. Se activa al incrustar la gema.")]
         public GameObject world;
         public UnityEvent onOpened;
     }
 
     [SerializeField] private SnapInteractable _snapInteractable;
 
-    [Header("Mundos (uno por tipo de gema)")]
+    [Header("Mundos")]
     [SerializeField] private WorldEntry[] _worlds;
 
     [Header("Comun a todos los mundos")]
-    [Tooltip("Tapon que cubre el hueco del portal. Se desactiva al abrir y se reactiva al cerrar.")]
     [SerializeField] private GameObject[] _cover;
     [SerializeField] private AudioSource _openSound;
 
     [Header("Opciones")]
-    [Tooltip("Si se saca la gema, el portal se cierra. Si no, queda abierto.")]
     [SerializeField] private bool _closeWhenGemRemoved = true;
 
     private WorldEntry _current;
