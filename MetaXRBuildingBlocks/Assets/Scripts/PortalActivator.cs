@@ -11,7 +11,6 @@ public class PortalActivator : MonoBehaviour
     {
         public string worldId;
 
-        [Tooltip("Objeto con todo el mundo de este portal.")]
         public GameObject world;
 
         public UnityEvent onOpened;
