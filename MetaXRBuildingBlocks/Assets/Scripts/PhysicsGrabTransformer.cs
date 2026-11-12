@@ -6,7 +6,7 @@ public class PhysicsGrabTransformer : MonoBehaviour, ITransformer
 {
     [Header("Seguimiento")]
     [SerializeField] private float _maxLinearSpeed = 40f;
-    [SerializeField] private float _maxAngularSpeed = 40f; // rad/s
+    [SerializeField] private float _maxAngularSpeed = 40f;
     [Tooltip("Velocidad maxima con la que el objeto puede salir de las colisiones (evita que salga disparado).")]
     [SerializeField] private float _maxDepenetrationVelocity = 3f;
 

@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 824699777798492938}
   - component: {fileID: 4386004115638639791}
   - component: {fileID: 1962092556021540965}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: terreno5 (28)
   m_TagString: Floor
   m_Icon: {fileID: 0}
@@ -101,7 +101,7 @@ GameObject:
   - component: {fileID: 803328601875084175}
   - component: {fileID: 4362339382282419242}
   - component: {fileID: 1976750141816899808}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: terreno5 (42)
   m_TagString: Floor
   m_Icon: {fileID: 0}
@@ -191,7 +191,7 @@ GameObject:
   - component: {fileID: 603526168094524100}
   - component: {fileID: 4598171162611174753}
   - component: {fileID: 1741497803486706091}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: terreno5 (4)
   m_TagString: Floor
   m_Icon: {fileID: 0}
@@ -279,7 +279,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 644462901207701532}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: BigRock4_2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -314,7 +314,7 @@ GameObject:
   - component: {fileID: 5699048240427419228}
   - component: {fileID: 7019817883462909249}
   - component: {fileID: 5516962209464375379}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Copa4
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -404,7 +404,7 @@ GameObject:
   - component: {fileID: 7718803656812530632}
   - component: {fileID: 1504726239995839881}
   - component: {fileID: 1025976680023920294}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Copa2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -495,7 +495,7 @@ GameObject:
   - component: {fileID: 4087068305899795282}
   - component: {fileID: 2259920470419359640}
   - component: {fileID: 1641750141032051071}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Valla_ParaulesMagiques
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -607,7 +607,7 @@ GameObject:
   - component: {fileID: 1864908555129979143}
   - component: {fileID: 105221024619815591}
   - component: {fileID: 5993656986499797776}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Copa3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -698,7 +698,7 @@ GameObject:
   - component: {fileID: 4054382203340114828}
   - component: {fileID: 2279094553918062406}
   - component: {fileID: 1600056412271233441}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Valla_Odossea
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -810,7 +810,7 @@ GameObject:
   - component: {fileID: 6919494749008474623}
   - component: {fileID: 4533579230654655311}
   - component: {fileID: 7500955139593428416}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: pCylinder11
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -900,7 +900,7 @@ GameObject:
   - component: {fileID: 3037495211456489368}
   - component: {fileID: 6256935999763025069}
   - component: {fileID: 8300885972981607514}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Tronco4
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -988,7 +988,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1073168002545840417}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Tree4 (4)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1027,7 +1027,7 @@ GameObject:
   - component: {fileID: 2795752277754365657}
   - component: {fileID: 7472523565686446462}
   - component: {fileID: 8031336358256338496}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: pCylinder12
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1117,7 +1117,7 @@ GameObject:
   - component: {fileID: 7590082661092703457}
   - component: {fileID: 3711775351107919003}
   - component: {fileID: 5093878792705362082}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Tronco2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1207,7 +1207,7 @@ GameObject:
   - component: {fileID: 916091760439315726}
   - component: {fileID: 4258513054497161899}
   - component: {fileID: 2089019619392763489}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: terreno5 (37)
   m_TagString: Floor
   m_Icon: {fileID: 0}
@@ -1295,7 +1295,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 243743206076852394}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: BigRock4_3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1330,7 +1330,7 @@ GameObject:
   - component: {fileID: 2801903395181231549}
   - component: {fileID: 6489721852164183688}
   - component: {fileID: 9221030386962527871}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Tronco4
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1421,7 +1421,7 @@ GameObject:
   - component: {fileID: 3753743196597570503}
   - component: {fileID: 1437508947365609229}
   - component: {fileID: 1902626234454460906}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Valla_Odossea
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1531,7 +1531,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 7717938461668224882}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Props
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1571,7 +1571,7 @@ GameObject:
   - component: {fileID: 7554422426468542868}
   - component: {fileID: 3339170702097417508}
   - component: {fileID: 827038600798132619}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: terreno5 (43)
   m_TagString: Floor
   m_Icon: {fileID: 0}
@@ -1659,7 +1659,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 22142710600937417}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Tree1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1694,7 +1694,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 437399422650879194}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Tree4 (8)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1733,7 +1733,7 @@ GameObject:
   - component: {fileID: 3268739620452365935}
   - component: {fileID: 7792309446922660296}
   - component: {fileID: 7270337441776228086}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: pCylinder12
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1823,7 +1823,7 @@ GameObject:
   - component: {fileID: 447233005547627814}
   - component: {fileID: 3574520659057846915}
   - component: {fileID: 1621235187216080457}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: terreno5 (10)
   m_TagString: Floor
   m_Icon: {fileID: 0}
@@ -1913,7 +1913,7 @@ GameObject:
   - component: {fileID: 4427931883163760899}
   - component: {fileID: 6909180673915893048}
   - component: {fileID: 5328800193441286550}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Copa (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2003,7 +2003,7 @@ GameObject:
   - component: {fileID: 4791858202758945366}
   - component: {fileID: 7853266919090905419}
   - component: {fileID: 4685749592298357849}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Copa4
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2093,7 +2093,7 @@ GameObject:
   - component: {fileID: 7388643973332260802}
   - component: {fileID: 1834885900894050691}
   - component: {fileID: 264040920182805164}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Copa2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2183,7 +2183,7 @@ GameObject:
   - component: {fileID: 1194286010413264614}
   - component: {fileID: 219794924564796878}
   - component: {fileID: 1972590053286895792}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Tronco3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2273,7 +2273,7 @@ GameObject:
   - component: {fileID: 1155240647480856780}
   - component: {fileID: 808165435731383490}
   - component: {fileID: 4986789533074275570}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: terreno5 (46)
   m_TagString: Floor
   m_Icon: {fileID: 0}
@@ -2363,7 +2363,7 @@ GameObject:
   - component: {fileID: 8440329786395445425}
   - component: {fileID: 899736394451039641}
   - component: {fileID: 6236284795511660020}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Copa
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2453,7 +2453,7 @@ GameObject:
   - component: {fileID: 7034692018355192090}
   - component: {fileID: 4285101299995304288}
   - component: {fileID: 5639715302167491929}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Tronco2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2543,7 +2543,7 @@ GameObject:
   - component: {fileID: 1020871540310251700}
   - component: {fileID: 2140608249614263196}
   - component: {fileID: 421128065653626594}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Tronco3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2631,7 +2631,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 870675731269935805}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Tree5 (3)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2666,7 +2666,7 @@ GameObject:
   - component: {fileID: 3465449769824435403}
   - component: {fileID: 8172059982207394668}
   - component: {fileID: 8768024739158269010}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: pCylinder12
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2756,7 +2756,7 @@ GameObject:
   - component: {fileID: 1881479014699282861}
   - component: {fileID: 3293117208452906504}
   - component: {fileID: 745196130385480386}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: terreno5 (39)
   m_TagString: Floor
   m_Icon: {fileID: 0}
@@ -2846,7 +2846,7 @@ GameObject:
   - component: {fileID: 4475709668182154746}
   - component: {fileID: 3674309202214609173}
   - component: {fileID: 5901693581360150592}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: GrasInt
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2936,7 +2936,7 @@ GameObject:
   - component: {fileID: 1934986516816228112}
   - component: {fileID: 3275709474686329013}
   - component: {fileID: 761494405195469951}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: terreno5 (26)
   m_TagString: Floor
   m_Icon: {fileID: 0}
@@ -3027,7 +3027,7 @@ GameObject:
   - component: {fileID: 3268469737475874514}
   - component: {fileID: 774364742164539928}
   - component: {fileID: 228392886995950847}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Valla_Granotago
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3139,7 +3139,7 @@ GameObject:
   - component: {fileID: 7890099358741438323}
   - component: {fileID: 1460622400217968400}
   - component: {fileID: 327880123271734105}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Copa4
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3227,7 +3227,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1862835029396017878}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Tree5
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3264,7 +3264,7 @@ GameObject:
   - component: {fileID: 2074830692400499817}
   - component: {fileID: 4514798025871136476}
   - component: {fileID: 1341655578494381533}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Copa4
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3354,7 +3354,7 @@ GameObject:
   - component: {fileID: 4121531993482115093}
   - component: {fileID: 3290864110851591665}
   - component: {fileID: 3929196682248155461}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: terreno5 (44)
   m_TagString: Floor
   m_Icon: {fileID: 0}
@@ -3444,7 +3444,7 @@ GameObject:
   - component: {fileID: 2267670814612702909}
   - component: {fileID: 2943024300196481304}
   - component: {fileID: 1095305222447513042}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: terreno5 (27)
   m_TagString: Floor
   m_Icon: {fileID: 0}
@@ -3534,7 +3534,7 @@ GameObject:
   - component: {fileID: 1003402344983125044}
   - component: {fileID: 7568611198209723939}
   - component: {fileID: 7938939717433909788}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Tronco
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3622,7 +3622,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 2293989011479857070}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: BigRock7_2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3658,7 +3658,7 @@ GameObject:
   - component: {fileID: 7833632236217415086}
   - component: {fileID: 1578570221395429510}
   - component: {fileID: 5701292977416184043}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Copa
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3748,7 +3748,7 @@ GameObject:
   - component: {fileID: 2118918815882240977}
   - component: {fileID: 3082769996515011700}
   - component: {fileID: 949350995879696574}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: terreno5 (38)
   m_TagString: Floor
   m_Icon: {fileID: 0}
@@ -3838,7 +3838,7 @@ GameObject:
   - component: {fileID: 2126578486452500262}
   - component: {fileID: 3039019664265066627}
   - component: {fileID: 993099799033203785}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: terreno6 (5)
   m_TagString: Floor
   m_Icon: {fileID: 0}
@@ -3928,7 +3928,7 @@ GameObject:
   - component: {fileID: 836632114457324912}
   - component: {fileID: 1371625347080539856}
   - component: {fileID: 4706423567564046183}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Copa3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4018,7 +4018,7 @@ GameObject:
   - component: {fileID: 8855618474362118508}
   - component: {fileID: 6748181371715657282}
   - component: {fileID: 1504748892538573844}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Tronco3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4106,7 +4106,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 858202935990761023}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Vallas
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4152,7 +4152,7 @@ GameObject:
   - component: {fileID: 1321316747572847016}
   - component: {fileID: 2736386480474009101}
   - component: {fileID: 152399219574266567}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: terreno5 (11)
   m_TagString: Floor
   m_Icon: {fileID: 0}
@@ -4242,7 +4242,7 @@ GameObject:
   - component: {fileID: 1311301468936805814}
   - component: {fileID: 2710452466249503251}
   - component: {fileID: 178315916645426905}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: terreno5 (40)
   m_TagString: Floor
   m_Icon: {fileID: 0}
@@ -4332,7 +4332,7 @@ GameObject:
   - component: {fileID: 529548982423467861}
   - component: {fileID: 2291760995531805941}
   - component: {fileID: 5590540312452982082}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Copa3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4422,7 +4422,7 @@ GameObject:
   - component: {fileID: 3791872833568199114}
   - component: {fileID: 5218884346074872575}
   - component: {fileID: 7893264519836621320}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Tronco4
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4512,7 +4512,7 @@ GameObject:
   - component: {fileID: 246146399878131206}
   - component: {fileID: 7462370083552951313}
   - component: {fileID: 6965509899146629166}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Tronco
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4602,7 +4602,7 @@ GameObject:
   - component: {fileID: 56963186671877301}
   - component: {fileID: 6827050332612659155}
   - component: {fileID: 7057934331488740670}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Copa3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4692,7 +4692,7 @@ GameObject:
   - component: {fileID: 1208624448751031492}
   - component: {fileID: 2840150809564896097}
   - component: {fileID: 40190813513691051}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: terreno6 (4)
   m_TagString: Floor
   m_Icon: {fileID: 0}
@@ -4782,7 +4782,7 @@ GameObject:
   - component: {fileID: 368334570281734238}
   - component: {fileID: 7059744818506056265}
   - component: {fileID: 7411971532119060086}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Tronco
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4872,7 +4872,7 @@ GameObject:
   - component: {fileID: 211626052560290449}
   - component: {fileID: 1257052244892449209}
   - component: {fileID: 656716551182339271}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Tronco3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4962,7 +4962,7 @@ GameObject:
   - component: {fileID: 1601433169529263201}
   - component: {fileID: 2420321337691003844}
   - component: {fileID: 464506447066967822}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: terreno5 (5)
   m_TagString: Floor
   m_Icon: {fileID: 0}
@@ -5052,7 +5052,7 @@ GameObject:
   - component: {fileID: 558456111542783306}
   - component: {fileID: 7144360522399457117}
   - component: {fileID: 7205762008191824738}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Tronco
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5140,7 +5140,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1556967785937580335}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: BigRock7_1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5174,7 +5174,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1565760571447562936}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: BigRock4_5
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5209,7 +5209,7 @@ GameObject:
   - component: {fileID: 3127898666798733604}
   - component: {fileID: 2073728230203577985}
   - component: {fileID: 4261438373755560523}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: terreno5 (30)
   m_TagString: Floor
   m_Icon: {fileID: 0}
@@ -5299,7 +5299,7 @@ GameObject:
   - component: {fileID: 3308843378905733217}
   - component: {fileID: 7165921000736577646}
   - component: {fileID: 6650643319154417151}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Copa1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5389,7 +5389,7 @@ GameObject:
   - component: {fileID: 4161837270735300767}
   - component: {fileID: 6711496111627860616}
   - component: {fileID: 6485705125884630711}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Tronco
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5477,7 +5477,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 3111825225617557795}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: BigRock4_4
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5512,7 +5512,7 @@ GameObject:
   - component: {fileID: 1794177162534797461}
   - component: {fileID: 9029275781634098649}
   - component: {fileID: 6813140735514625482}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Copa2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5602,7 +5602,7 @@ GameObject:
   - component: {fileID: 2504964513933124667}
   - component: {fileID: 7564049467354509554}
   - component: {fileID: 4504823170607769144}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Tronco1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5692,7 +5692,7 @@ GameObject:
   - component: {fileID: 5334479473202751618}
   - component: {fileID: 3889015903831566019}
   - component: {fileID: 3396931880278945260}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Copa2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5782,7 +5782,7 @@ GameObject:
   - component: {fileID: 5561491732715437658}
   - component: {fileID: 1727658980930018848}
   - component: {fileID: 7118527941882350105}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Tronco2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5870,7 +5870,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 3458196384717443691}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Tree4 (6)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5909,7 +5909,7 @@ GameObject:
   - component: {fileID: 620148012376603060}
   - component: {fileID: 8388366339038106241}
   - component: {fileID: 5876853736761471606}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Tronco4
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5997,7 +5997,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 3312119872382969469}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Tree1 (4)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6034,7 +6034,7 @@ GameObject:
   - component: {fileID: 4888658246094250176}
   - component: {fileID: 2104440363898747504}
   - component: {fileID: 5460128439676996863}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: pCylinder11
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6124,7 +6124,7 @@ GameObject:
   - component: {fileID: 7740586712840242407}
   - component: {fileID: 4976591493733285882}
   - component: {fileID: 7560188431623428840}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Copa4
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6212,7 +6212,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 2554018987878863951}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Tree2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6245,7 +6245,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 9221204786392104373}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Tree2 (6)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6280,7 +6280,7 @@ GameObject:
   - component: {fileID: 2645970680502253453}
   - component: {fileID: 7647473889170257794}
   - component: {fileID: 6131909319748039187}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Copa1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6370,7 +6370,7 @@ GameObject:
   - component: {fileID: 6019115591714551447}
   - component: {fileID: 5942194799019539226}
   - component: {fileID: 6317564882519225893}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Tronco
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6458,7 +6458,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 2480063656996327009}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Tree4
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6498,7 +6498,7 @@ GameObject:
   - component: {fileID: 1545724054779976451}
   - component: {fileID: 3645510651775758281}
   - component: {fileID: 4252249211068504366}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Valla_Granotago
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6610,7 +6610,7 @@ GameObject:
   - component: {fileID: 4824125102151079289}
   - component: {fileID: 4399405188669496120}
   - component: {fileID: 2869091368207618071}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Copa2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6701,7 +6701,7 @@ GameObject:
   - component: {fileID: 2005912516651849379}
   - component: {fileID: 2157313304056763257}
   - component: {fileID: 941156772120664085}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Tronco2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6811,7 +6811,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 4391203664974451454}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Rocks
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6853,7 +6853,7 @@ GameObject:
   - component: {fileID: 2815912583132049302}
   - component: {fileID: 1205832230843998259}
   - component: {fileID: 3989922430381233401}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: terreno6 (2)
   m_TagString: Floor
   m_Icon: {fileID: 0}
@@ -6941,7 +6941,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 2872107696159602435}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Tree2 (5)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6976,7 +6976,7 @@ GameObject:
   - component: {fileID: 5208523442549969014}
   - component: {fileID: 1631461829616765638}
   - component: {fileID: 4635929548082625609}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: pCylinder11
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7066,7 +7066,7 @@ GameObject:
   - component: {fileID: 3196269778872864453}
   - component: {fileID: 2556741831538941154}
   - component: {fileID: 4331824994071831553}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Tronco2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7157,7 +7157,7 @@ GameObject:
   - component: {fileID: 5592316895617900065}
   - component: {fileID: 1180225893422615914}
   - component: {fileID: 9084245536756251034}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Fanal_L (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7266,7 +7266,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 2668198282341575191}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Tree2 (3)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7301,7 +7301,7 @@ GameObject:
   - component: {fileID: 900938634091681185}
   - component: {fileID: 2833832278012460424}
   - component: {fileID: 4740836348568389839}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: LineaFondo (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7391,7 +7391,7 @@ GameObject:
   - component: {fileID: 27663182360894524}
   - component: {fileID: 8975678925695923977}
   - component: {fileID: 6446820980290312190}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Tronco4
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7481,7 +7481,7 @@ GameObject:
   - component: {fileID: 1045431374818912080}
   - component: {fileID: 5763801848151619831}
   - component: {fileID: 5132861625399019465}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: pCylinder12
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7571,7 +7571,7 @@ GameObject:
   - component: {fileID: 4663878496991748688}
   - component: {fileID: 1904722729749709354}
   - component: {fileID: 8024597569820153363}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Tronco2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7661,7 +7661,7 @@ GameObject:
   - component: {fileID: 7176849340314286364}
   - component: {fileID: 5612957868785238529}
   - component: {fileID: 6926100525984311059}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Copa4
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7751,7 +7751,7 @@ GameObject:
   - component: {fileID: 4445208431704286774}
   - component: {fileID: 8298345409759159865}
   - component: {fileID: 5480888294031778728}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Copa1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7841,7 +7841,7 @@ GameObject:
   - component: {fileID: 3250556283839778033}
   - component: {fileID: 3857586183549677393}
   - component: {fileID: 7480629077056478950}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Copa3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7931,7 +7931,7 @@ GameObject:
   - component: {fileID: 5414394471056944484}
   - component: {fileID: 3638162302952362060}
   - component: {fileID: 7532943104260421665}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Copa
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -8021,7 +8021,7 @@ GameObject:
   - component: {fileID: 3645868364144515692}
   - component: {fileID: 8692849893443604133}
   - component: {fileID: 3377570869921192047}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Tronco1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -8111,7 +8111,7 @@ GameObject:
   - component: {fileID: 2024347769002762770}
   - component: {fileID: 6317072356870796224}
   - component: {fileID: 8710294113773572196}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Copa (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -8201,7 +8201,7 @@ GameObject:
   - component: {fileID: 4169759525943296243}
   - component: {fileID: 1040944659304140630}
   - component: {fileID: 2996823321602505628}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: terreno5 (32)
   m_TagString: Floor
   m_Icon: {fileID: 0}
@@ -8291,7 +8291,7 @@ GameObject:
   - component: {fileID: 3212950925940410008}
   - component: {fileID: 4542050946427403696}
   - component: {fileID: 2838474098516166862}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Tronco3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -8381,7 +8381,7 @@ GameObject:
   - component: {fileID: 5332074617738948720}
   - component: {fileID: 3504301742537149784}
   - component: {fileID: 7662590402120082741}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Copa
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -8471,7 +8471,7 @@ GameObject:
   - component: {fileID: 4101373221258282453}
   - component: {fileID: 1100244605794339440}
   - component: {fileID: 2927390242253684410}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: terreno5 (24)
   m_TagString: Floor
   m_Icon: {fileID: 0}
@@ -8559,7 +8559,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 4084284694517087336}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: BigRock7
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -8595,7 +8595,7 @@ GameObject:
   - component: {fileID: 4550191064121444821}
   - component: {fileID: 615406826184410736}
   - component: {fileID: 3417856593570722490}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: terreno5
   m_TagString: Floor
   m_Icon: {fileID: 0}
@@ -8685,7 +8685,7 @@ GameObject:
   - component: {fileID: 5731322088618020392}
   - component: {fileID: 3951677027830739712}
   - component: {fileID: 7791253540742552429}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Copa
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -8773,7 +8773,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 3530799592840504303}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Tree2 (8)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -8809,7 +8809,7 @@ GameObject:
   - component: {fileID: 6570812643932167806}
   - component: {fileID: 5815085684541698992}
   - component: {fileID: 1135430701248362652}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Tronco4
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -8922,7 +8922,7 @@ GameObject:
   - component: {fileID: 345750843226451534}
   - component: {fileID: 2533465859353811588}
   - component: {fileID: 3079581956007947363}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Valla_Torrats
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9034,7 +9034,7 @@ GameObject:
   - component: {fileID: 2275961271874891762}
   - component: {fileID: 7896244087607046423}
   - component: {fileID: 7785022248615514033}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Copa
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9124,7 +9124,7 @@ GameObject:
   - component: {fileID: 2730651866307914105}
   - component: {fileID: 4427483609159142105}
   - component: {fileID: 8010208645005294446}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Copa3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9214,7 +9214,7 @@ GameObject:
   - component: {fileID: 4308684944513709440}
   - component: {fileID: 8210074485504909641}
   - component: {fileID: 2849851790330378115}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Tronco1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9304,7 +9304,7 @@ GameObject:
   - component: {fileID: 3723530050045043807}
   - component: {fileID: 289208183193496570}
   - component: {fileID: 2587192669976567600}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: terreno5 (8)
   m_TagString: Floor
   m_Icon: {fileID: 0}
@@ -9394,7 +9394,7 @@ GameObject:
   - component: {fileID: 2329879200491558272}
   - component: {fileID: 4949651827718621079}
   - component: {fileID: 4869919829328325544}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Tronco
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9484,7 +9484,7 @@ GameObject:
   - component: {fileID: 3656551249161738337}
   - component: {fileID: 365203240876562372}
   - component: {fileID: 2519061542252847886}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: terreno5 (12)
   m_TagString: Floor
   m_Icon: {fileID: 0}
@@ -9574,7 +9574,7 @@ GameObject:
   - component: {fileID: 2625531548808880912}
   - component: {fileID: 4031259968466147384}
   - component: {fileID: 3430964424076258630}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Tronco3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9664,7 +9664,7 @@ GameObject:
   - component: {fileID: 6814832097839917668}
   - component: {fileID: 35848708037505236}
   - component: {fileID: 6236747207951926875}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: pCylinder11
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9752,7 +9752,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 5618299541590898648}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Trees
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9814,7 +9814,7 @@ GameObject:
   - component: {fileID: 4687982055937817626}
   - component: {fileID: 4058196900889051442}
   - component: {fileID: 7108551673761474911}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Copa
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9904,7 +9904,7 @@ GameObject:
   - component: {fileID: 2990573012387544312}
   - component: {fileID: 1350387651503444411}
   - component: {fileID: 4067242734197872957}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Copa3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9995,7 +9995,7 @@ GameObject:
   - component: {fileID: 507280063556709345}
   - component: {fileID: 2373062538951630635}
   - component: {fileID: 2988909599671511500}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Valla_Torrats
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -10108,7 +10108,7 @@ GameObject:
   - component: {fileID: 50986478568705878}
   - component: {fileID: 2833279456288668572}
   - component: {fileID: 3370282521398611323}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Valla_Granotago
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -10221,7 +10221,7 @@ GameObject:
   - component: {fileID: 40942821283731160}
   - component: {fileID: 2843321738621149714}
   - component: {fileID: 3378245839334642933}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Valla_Granotago
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -10333,7 +10333,7 @@ GameObject:
   - component: {fileID: 1085819505610439316}
   - component: {fileID: 1113549245850908146}
   - component: {fileID: 2671200913593516088}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Copa
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -10421,7 +10421,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 4853664202377444558}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Campo
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -10455,7 +10455,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 5972180605691777388}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Tree2 (7)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -10490,7 +10490,7 @@ GameObject:
   - component: {fileID: 5475522963190409864}
   - component: {fileID: 8958553057578870061}
   - component: {fileID: 6608992610640630247}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: terreno5 (17)
   m_TagString: Floor
   m_Icon: {fileID: 0}
@@ -10580,7 +10580,7 @@ GameObject:
   - component: {fileID: 6386185368487776926}
   - component: {fileID: 4343052327630143625}
   - component: {fileID: 4278493589566319798}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Tronco
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -10668,7 +10668,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 5345562410033942259}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Tree5 (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -10701,7 +10701,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 5400704492033538011}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Tree1 (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -10738,7 +10738,7 @@ GameObject:
   - component: {fileID: 5378077061618749079}
   - component: {fileID: 9010892525681590578}
   - component: {fileID: 6551022543089284600}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: terreno5 (15)
   m_TagString: Floor
   m_Icon: {fileID: 0}
@@ -10826,7 +10826,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 5284939864825024264}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Tree4 (7)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -10865,7 +10865,7 @@ GameObject:
   - component: {fileID: 5297121517305586798}
   - component: {fileID: 9091919241918868427}
   - component: {fileID: 6469433134617992961}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: terreno5 (9)
   m_TagString: Floor
   m_Icon: {fileID: 0}
@@ -10955,7 +10955,7 @@ GameObject:
   - component: {fileID: 3113310388308375338}
   - component: {fileID: 6110220039984658795}
   - component: {fileID: 5626966332256973380}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Copa2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -11045,7 +11045,7 @@ GameObject:
   - component: {fileID: 7206276119124972448}
   - component: {fileID: 2701852492955847687}
   - component: {fileID: 3294486261596074809}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: pCylinder12
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -11135,7 +11135,7 @@ GameObject:
   - component: {fileID: 3086780815058134294}
   - component: {fileID: 8070997233192486252}
   - component: {fileID: 374369392577122645}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Tronco2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -11225,7 +11225,7 @@ GameObject:
   - component: {fileID: 3118171269605125471}
   - component: {fileID: 6803431330891475842}
   - component: {fileID: 6272447532607501543}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Tronco
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -11315,7 +11315,7 @@ GameObject:
   - component: {fileID: 4540693189175065607}
   - component: {fileID: 5070307878390317359}
   - component: {fileID: 2065569653728160066}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Copa
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -11405,7 +11405,7 @@ GameObject:
   - component: {fileID: 744056285878747964}
   - component: {fileID: 2607331562315020321}
   - component: {fileID: 708282265480600883}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Copa4
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -11495,7 +11495,7 @@ GameObject:
   - component: {fileID: 5028058507838272925}
   - component: {fileID: 1152021608886444372}
   - component: {fileID: 6449281835852871582}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Tronco1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -11585,7 +11585,7 @@ GameObject:
   - component: {fileID: 4455998269533540055}
   - component: {fileID: 4938320764597974015}
   - component: {fileID: 2197556588994550674}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Copa
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -11675,7 +11675,7 @@ GameObject:
   - component: {fileID: 4454663667430777421}
   - component: {fileID: 4939524393812205413}
   - component: {fileID: 2196505111136007944}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Copa
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -11765,7 +11765,7 @@ GameObject:
   - component: {fileID: 7612289472480132719}
   - component: {fileID: 1537428522706228570}
   - component: {fileID: 3508791139146184109}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Tronco4
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -11855,7 +11855,7 @@ GameObject:
   - component: {fileID: 4833273534300478242}
   - component: {fileID: 8411852460519969927}
   - component: {fileID: 6005568207968608333}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: terreno6 (1)
   m_TagString: Floor
   m_Icon: {fileID: 0}
@@ -11945,7 +11945,7 @@ GameObject:
   - component: {fileID: 2743667766911008563}
   - component: {fileID: 8990579858974564169}
   - component: {fileID: 718046503045303152}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Tronco2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -12033,7 +12033,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 4894036600021648615}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Tree2 (4)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -12068,7 +12068,7 @@ GameObject:
   - component: {fileID: 9173866740259821190}
   - component: {fileID: 2183718259299468408}
   - component: {fileID: 2324527269701616276}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Copa
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -12158,7 +12158,7 @@ GameObject:
   - component: {fileID: 6083321001168063663}
   - component: {fileID: 8547887981409987158}
   - component: {fileID: 7012161197900905694}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: pCylinder16
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -12246,7 +12246,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 4732341162939710931}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: BigRock4
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -12281,7 +12281,7 @@ GameObject:
   - component: {fileID: 2579931045742908066}
   - component: {fileID: 6643563786934901987}
   - component: {fileID: 5111148798645049292}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Copa2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -12371,7 +12371,7 @@ GameObject:
   - component: {fileID: 5140845136315657754}
   - component: {fileID: 8140301403318690239}
   - component: {fileID: 6277137956368831861}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: terreno5 (35)
   m_TagString: Floor
   m_Icon: {fileID: 0}
@@ -12461,7 +12461,7 @@ GameObject:
   - component: {fileID: 4257124637462247679}
   - component: {fileID: 5973566937369745252}
   - component: {fileID: 8556536818991654159}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: LineaFondo (3)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -12551,7 +12551,7 @@ GameObject:
   - component: {fileID: 3913900415072834539}
   - component: {fileID: 5696602676530966211}
   - component: {fileID: 1583401691341915822}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Copa
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -12641,7 +12641,7 @@ GameObject:
   - component: {fileID: 191994450964539060}
   - component: {fileID: 3230885152810212777}
   - component: {fileID: 84759322794096827}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Copa4
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -12731,7 +12731,7 @@ GameObject:
   - component: {fileID: 6233220494472586871}
   - component: {fileID: 418508783924597336}
   - component: {fileID: 8475458574621124412}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: pCylinder17
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -12819,7 +12819,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 5013321440122819885}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Tree4 (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -12858,7 +12858,7 @@ GameObject:
   - component: {fileID: 7012408189622797204}
   - component: {fileID: 2135647342369122465}
   - component: {fileID: 4054618566228887638}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Tronco4
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -12946,7 +12946,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 6569288152631468927}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Tree4 (5)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -12983,7 +12983,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 6066616387949743727}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: TutorialMap
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -13031,7 +13031,7 @@ GameObject:
   - component: {fileID: 5489633044217500505}
   - component: {fileID: 6105673482108236025}
   - component: {fileID: 496481306458407246}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Copa3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -13121,7 +13121,7 @@ GameObject:
   - component: {fileID: 6552090057882574010}
   - component: {fileID: 7872970153027867423}
   - component: {fileID: 5379162648827553749}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: terreno6
   m_TagString: Floor
   m_Icon: {fileID: 0}
@@ -13209,7 +13209,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 6532746270247324044}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Tree1 (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -13246,7 +13246,7 @@ GameObject:
   - component: {fileID: 6446321821306579675}
   - component: {fileID: 7987754199475348862}
   - component: {fileID: 5277870589452489140}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: terreno5 (21)
   m_TagString: Floor
   m_Icon: {fileID: 0}
@@ -13336,7 +13336,7 @@ GameObject:
   - component: {fileID: 5596228851143295299}
   - component: {fileID: 6789148813883390571}
   - component: {fileID: 5069703539382849301}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Tronco3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -13424,7 +13424,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 6385115761492773686}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: BigRock4_1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -13459,7 +13459,7 @@ GameObject:
   - component: {fileID: 6865552110736216089}
   - component: {fileID: 7559446806993739708}
   - component: {fileID: 5696063522946050934}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: terreno5 (34)
   m_TagString: Floor
   m_Icon: {fileID: 0}
@@ -13549,7 +13549,7 @@ GameObject:
   - component: {fileID: 5897555678184813753}
   - component: {fileID: 4810919924943144009}
   - component: {fileID: 2469068518755001009}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: LineaFondo (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -13639,7 +13639,7 @@ GameObject:
   - component: {fileID: 3392074690947128960}
   - component: {fileID: 6218771480776172456}
   - component: {fileID: 917249123200306117}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Copa
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -13729,7 +13729,7 @@ GameObject:
   - component: {fileID: 6817458963023692345}
   - component: {fileID: 7580580010945908124}
   - component: {fileID: 5681104093981669718}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: terreno5 (14)
   m_TagString: Floor
   m_Icon: {fileID: 0}
@@ -13819,7 +13819,7 @@ GameObject:
   - component: {fileID: 6824443101194114067}
   - component: {fileID: 7573525438488992694}
   - component: {fileID: 5692099178496634748}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: terreno6 (3)
   m_TagString: Floor
   m_Icon: {fileID: 0}
@@ -13909,7 +13909,7 @@ GameObject:
   - component: {fileID: 484370328632343052}
   - component: {fileID: 6362365936231247400}
   - component: {fileID: 699949623943031536}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: pCylinder18
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -13999,7 +13999,7 @@ GameObject:
   - component: {fileID: 6536032453011437456}
   - component: {fileID: 1453974701752055711}
   - component: {fileID: 3104156328193012238}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Copa1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -14087,7 +14087,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 6051648003824068192}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Tree1 (3)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -14124,7 +14124,7 @@ GameObject:
   - component: {fileID: 4961353543002549922}
   - component: {fileID: 6651510191152631042}
   - component: {fileID: 1015148264989473973}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Copa3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -14214,7 +14214,7 @@ GameObject:
   - component: {fileID: 3778057496545907524}
   - component: {fileID: 7978646490656568126}
   - component: {fileID: 1984450777997879047}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Tronco2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -14302,7 +14302,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 5848531797247195178}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Tree2 (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -14335,7 +14335,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 5849876294946215088}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Tree5 (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -14370,7 +14370,7 @@ GameObject:
   - component: {fileID: 1427732612236201969}
   - component: {fileID: 4952941500212889900}
   - component: {fileID: 7539628958623012277}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Copa
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -14460,7 +14460,7 @@ GameObject:
   - component: {fileID: 4998028654592015544}
   - component: {fileID: 6251763784433977232}
   - component: {fileID: 5669583793458705134}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Tronco3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -14551,7 +14551,7 @@ GameObject:
   - component: {fileID: 7437955959332558707}
   - component: {fileID: 4673639927673824185}
   - component: {fileID: 8937475019727240813}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Fanal_R
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -14662,7 +14662,7 @@ GameObject:
   - component: {fileID: 2798790487458387092}
   - component: {fileID: 6884279098658679228}
   - component: {fileID: 396006552561549777}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Copa
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -14752,7 +14752,7 @@ GameObject:
   - component: {fileID: 2741326241061793212}
   - component: {fileID: 6869599057379102868}
   - component: {fileID: 406042441618716921}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Copa
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -14842,7 +14842,7 @@ GameObject:
   - component: {fileID: 9021007133569688901}
   - component: {fileID: 4345467059881097954}
   - component: {fileID: 3785422884490053084}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: pCylinder12
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -14932,7 +14932,7 @@ GameObject:
   - component: {fileID: 6221109872910860486}
   - component: {fileID: 7059966235169525603}
   - component: {fileID: 5052755843952999337}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: terreno5 (18)
   m_TagString: Floor
   m_Icon: {fileID: 0}
@@ -15022,7 +15022,7 @@ GameObject:
   - component: {fileID: 4892784304880891672}
   - component: {fileID: 9002042477565286868}
   - component: {fileID: 3934638796361753631}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: GrasExt
   m_TagString: Floor
   m_Icon: {fileID: 0}
@@ -15112,7 +15112,7 @@ GameObject:
   - component: {fileID: 7600409136676404424}
   - component: {fileID: 6833588195753849709}
   - component: {fileID: 8732830473205909415}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: terreno5 (6)
   m_TagString: Floor
   m_Icon: {fileID: 0}
@@ -15202,7 +15202,7 @@ GameObject:
   - component: {fileID: 5611283122404588756}
   - component: {fileID: 3543501315457619937}
   - component: {fileID: 1498214643587806998}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Tronco4
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -15292,7 +15292,7 @@ GameObject:
   - component: {fileID: 8841468194208936901}
   - component: {fileID: 2186183912721097170}
   - component: {fileID: 1833878721125993965}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Tronco
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -15382,7 +15382,7 @@ GameObject:
   - component: {fileID: 8914285824413100848}
   - component: {fileID: 2953210426675732255}
   - component: {fileID: 6389444668552964731}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: pCylinder17
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -15472,7 +15472,7 @@ GameObject:
   - component: {fileID: 361566764049380028}
   - component: {fileID: 675922713367843484}
   - component: {fileID: 5230148476438099496}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: LineaFondo (4)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -15488,7 +15488,7 @@ Transform:
   m_GameObject: {fileID: 7165780660716345014}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -0.06, y: -2.6, z: 30.69}
+  m_LocalPosition: {x: -0.06, y: -2.59, z: 30.69}
   m_LocalScale: {x: 2.28, y: 1.4315939, z: 1.4315939}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -15562,7 +15562,7 @@ GameObject:
   - component: {fileID: 2949584691448798480}
   - component: {fileID: 473852832877651469}
   - component: {fileID: 3127818583621583647}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Copa4
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -15650,7 +15650,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 8059186036149120649}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Tree4 (3)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -15690,7 +15690,7 @@ GameObject:
   - component: {fileID: 6354880239910533674}
   - component: {fileID: 9211522193900752608}
   - component: {fileID: 8521254829849819143}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Valla_Odeossea
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -15802,7 +15802,7 @@ GameObject:
   - component: {fileID: 987599502718391979}
   - component: {fileID: 8235895209733691626}
   - component: {fileID: 7536523144073630661}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Copa2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -15890,7 +15890,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 242381813405610012}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Tree4 (10)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -15929,7 +15929,7 @@ GameObject:
   - component: {fileID: 1946322325198588273}
   - component: {fileID: 1417047672004838801}
   - component: {fileID: 136895465159888063}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Tronco4
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -16019,7 +16019,7 @@ GameObject:
   - component: {fileID: 7875302067315077553}
   - component: {fileID: 6549757867400494612}
   - component: {fileID: 9007653756252785374}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: terreno5 (36)
   m_TagString: Floor
   m_Icon: {fileID: 0}
@@ -16109,7 +16109,7 @@ GameObject:
   - component: {fileID: 606330438193560378}
   - component: {fileID: 5962094798530026304}
   - component: {fileID: 2850332589474566009}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Tronco2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -16199,7 +16199,7 @@ GameObject:
   - component: {fileID: 7813036363816226622}
   - component: {fileID: 6612023916082151579}
   - component: {fileID: 8945934406013826129}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: terreno5 (13)
   m_TagString: Floor
   m_Icon: {fileID: 0}
@@ -16289,7 +16289,7 @@ GameObject:
   - component: {fileID: 4754160587012796956}
   - component: {fileID: 801398391437796375}
   - component: {fileID: 6740844856218373265}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Tronco3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -16379,7 +16379,7 @@ GameObject:
   - component: {fileID: 8744146052921393640}
   - component: {fileID: 6599194492917360401}
   - component: {fileID: 5504821293270266265}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: pCylinder16
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -16469,7 +16469,7 @@ GameObject:
   - component: {fileID: 7800049340215509333}
   - component: {fileID: 6597927493840129776}
   - component: {fileID: 8967928344851987002}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: terreno5 (2)
   m_TagString: Floor
   m_Icon: {fileID: 0}
@@ -16559,7 +16559,7 @@ GameObject:
   - component: {fileID: 7164897377920085419}
   - component: {fileID: 6107179755751268878}
   - component: {fileID: 8297311566417761988}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: terreno5 (29)
   m_TagString: Floor
   m_Icon: {fileID: 0}
@@ -16649,7 +16649,7 @@ GameObject:
   - component: {fileID: 7199173163717944133}
   - component: {fileID: 6072895517755567328}
   - component: {fileID: 8332702772267915306}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: terreno5 (33)
   m_TagString: Floor
   m_Icon: {fileID: 0}
@@ -16739,7 +16739,7 @@ GameObject:
   - component: {fileID: 7200284937694780490}
   - component: {fileID: 6071791924047221743}
   - component: {fileID: 8333807602357724965}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: terreno5 (1)
   m_TagString: Floor
   m_Icon: {fileID: 0}
@@ -16829,7 +16829,7 @@ GameObject:
   - component: {fileID: 8156554158172504675}
   - component: {fileID: 1572935082493956212}
   - component: {fileID: 1365131969481653323}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Tronco
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -16919,7 +16919,7 @@ GameObject:
   - component: {fileID: 8157462701532655353}
   - component: {fileID: 1572028735875251438}
   - component: {fileID: 1366046006230782161}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Tronco
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -17009,7 +17009,7 @@ GameObject:
   - component: {fileID: 2605897678932985653}
   - component: {fileID: 744909385927539752}
   - component: {fileID: 2859007213984143674}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Copa4
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -17099,7 +17099,7 @@ GameObject:
   - component: {fileID: 8213282124687498673}
   - component: {fileID: 2501043800233585054}
   - component: {fileID: 5973261000298585338}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: pCylinder17
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -17189,7 +17189,7 @@ GameObject:
   - component: {fileID: 104054500080045198}
   - component: {fileID: 9119440190864622287}
   - component: {fileID: 7228873720916888032}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Copa2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -17279,7 +17279,7 @@ GameObject:
   - component: {fileID: 7114307812498145192}
   - component: {fileID: 6130739218826391565}
   - component: {fileID: 8282178674143462599}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: terreno5 (25)
   m_TagString: Floor
   m_Icon: {fileID: 0}
@@ -17369,7 +17369,7 @@ GameObject:
   - component: {fileID: 7018876551739860980}
   - component: {fileID: 6253200374154061905}
   - component: {fileID: 8152399152112344219}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: terreno5 (20)
   m_TagString: Floor
   m_Icon: {fileID: 0}
@@ -17459,7 +17459,7 @@ GameObject:
   - component: {fileID: 8349686557686881321}
   - component: {fileID: 1658975556010577470}
   - component: {fileID: 1161930001170817537}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Tronco
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -17550,7 +17550,7 @@ GameObject:
   - component: {fileID: 6213469838747419901}
   - component: {fileID: 8205095266084466743}
   - component: {fileID: 8667784498100258512}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Valla_Torrats
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -17662,7 +17662,7 @@ GameObject:
   - component: {fileID: 7529712116094811177}
   - component: {fileID: 2469490301985466592}
   - component: {fileID: 8374965211458584106}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Tronco1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -17752,7 +17752,7 @@ GameObject:
   - component: {fileID: 6973853081577215030}
   - component: {fileID: 6298215879043931027}
   - component: {fileID: 8107383888423399257}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: terreno5 (31)
   m_TagString: Floor
   m_Icon: {fileID: 0}
@@ -17842,7 +17842,7 @@ GameObject:
   - component: {fileID: 7452458756693460782}
   - component: {fileID: 5819680223733057675}
   - component: {fileID: 8585935795782253633}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: terreno5 (19)
   m_TagString: Floor
   m_Icon: {fileID: 0}
@@ -17930,7 +17930,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 7435031563216194305}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Tree4 (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -17969,7 +17969,7 @@ GameObject:
   - component: {fileID: 8293349748960835433}
   - component: {fileID: 5898478856795099536}
   - component: {fileID: 5056305316149348120}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: pCylinder16
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -18059,7 +18059,7 @@ GameObject:
   - component: {fileID: 758065339394589967}
   - component: {fileID: 6082474078033174463}
   - component: {fileID: 187872786921384240}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: pCylinder11
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -18147,7 +18147,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 4243964733073784175}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Floor
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -18232,7 +18232,7 @@ GameObject:
   - component: {fileID: 4632031169793302750}
   - component: {fileID: 4375814556681489387}
   - component: {fileID: 1827816913193282332}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Tronco4
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -18322,7 +18322,9 @@ GameObject:
   - component: {fileID: 1474104195988346242}
   - component: {fileID: 8096424654355182734}
   - component: {fileID: 6068511238082847372}
-  m_Layer: 0
+  - component: {fileID: 6833834514791922240}
+  - component: {fileID: 1134346580121684617}
+  m_Layer: 7
   m_Name: Collider
   m_TagString: Floor
   m_Icon: {fileID: 0}
@@ -18371,8 +18373,44 @@ BoxCollider:
   m_ProvidesContacts: 0
   m_Enabled: 1
   serializedVersion: 3
-  m_Size: {x: 9.058487, y: 0.54407364, z: 8.14428}
+  m_Size: {x: 9.058487, y: 0.55, z: 8.14428}
   m_Center: {x: -0.008908842, y: -0.22796318, z: 0.083974764}
+--- !u!114 &6833834514791922240
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7974644592958217736}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4462db6b836045640a882a2a4e4022f7, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Oculus.Interaction::Oculus.Interaction.Locomotion.TeleportInteractable
+  _interactorFilters: []
+  _maxInteractors: -1
+  _maxSelectingInteractors: -1
+  _data: {fileID: 0}
+  _allowTeleport: 1
+  _equalDistanceToBlockerOverride: 0
+  _tieBreakerScore: 0
+  _surface: {fileID: 1134346580121684617}
+  _targetPoint: {fileID: 0}
+  _faceTargetDirection: 0
+  _eyeLevel: 0
+--- !u!114 &1134346580121684617
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7974644592958217736}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a2140d2b457bea84881488302059889b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Oculus.Interaction::Oculus.Interaction.Surfaces.ColliderSurface
+  _collider: {fileID: 6068511238082847372}
 --- !u!1 &7987999639702896830
 GameObject:
   m_ObjectHideFlags: 0
@@ -18384,7 +18422,7 @@ GameObject:
   - component: {fileID: 41496128741301938}
   - component: {fileID: 6504587030904929992}
   - component: {fileID: 3420229599147895537}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Tronco2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -18474,7 +18512,7 @@ GameObject:
   - component: {fileID: 1460162486204740272}
   - component: {fileID: 7862467224241754008}
   - component: {fileID: 4029071066055714805}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Copa
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -18564,7 +18602,7 @@ GameObject:
   - component: {fileID: 7869560952923123731}
   - component: {fileID: 8476590852490498995}
   - component: {fileID: 2880765307713200644}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Copa3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -18654,7 +18692,7 @@ GameObject:
   - component: {fileID: 2432926415230321098}
   - component: {fileID: 9164829142631486958}
   - component: {fileID: 3372371389173698870}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: pCylinder18
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -18744,7 +18782,7 @@ GameObject:
   - component: {fileID: 8793135994878763893}
   - component: {fileID: 5595904008678812880}
   - component: {fileID: 7659587525784950810}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: terreno5 (41)
   m_TagString: Floor
   m_Icon: {fileID: 0}
@@ -18834,7 +18872,7 @@ GameObject:
   - component: {fileID: 5384422234975657075}
   - component: {fileID: 200318725504764773}
   - component: {fileID: 5462989314615750939}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Tronco
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -18924,7 +18962,7 @@ GameObject:
   - component: {fileID: 8837651159356890966}
   - component: {fileID: 5551389620778193139}
   - component: {fileID: 7705245801581552697}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: terreno5 (16)
   m_TagString: Floor
   m_Icon: {fileID: 0}
@@ -19015,7 +19053,7 @@ GameObject:
   - component: {fileID: 5670032399969904370}
   - component: {fileID: 7589963009560777272}
   - component: {fileID: 6971719125662622943}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Valla_ParaulesMagiques
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -19127,7 +19165,7 @@ GameObject:
   - component: {fileID: 7703660580684860818}
   - component: {fileID: 1012519017093554053}
   - component: {fileID: 660037908065334202}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Tronco
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -19217,7 +19255,7 @@ GameObject:
   - component: {fileID: 8706881145277876349}
   - component: {fileID: 5727124965549574104}
   - component: {fileID: 7538500870712488722}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: terreno5 (7)
   m_TagString: Floor
   m_Icon: {fileID: 0}
@@ -19307,7 +19345,7 @@ GameObject:
   - component: {fileID: 7652898712081167546}
   - component: {fileID: 1067731352149993133}
   - component: {fileID: 717343743258413714}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Tronco
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -19395,7 +19433,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 8699696251088120023}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Tree2 (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -19430,7 +19468,7 @@ GameObject:
   - component: {fileID: 9173047893674909747}
   - component: {fileID: 5252021662268551062}
   - component: {fileID: 8000111105353227100}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: terreno5 (22)
   m_TagString: Floor
   m_Icon: {fileID: 0}
@@ -19521,7 +19559,7 @@ GameObject:
   - component: {fileID: 8218119667596640328}
   - component: {fileID: 7024511427066608876}
   - component: {fileID: 9071330473069049204}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Fanal_L (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -19633,7 +19671,7 @@ GameObject:
   - component: {fileID: 5298281627819922946}
   - component: {fileID: 7954395259947950792}
   - component: {fileID: 338190300031439408}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Fanal_L
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -19744,7 +19782,7 @@ GameObject:
   - component: {fileID: 9141619226802770774}
   - component: {fileID: 5292386889112411379}
   - component: {fileID: 7968735382406309945}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: terreno5 (23)
   m_TagString: Floor
   m_Icon: {fileID: 0}
@@ -19834,7 +19872,7 @@ GameObject:
   - component: {fileID: 2290507611202943708}
   - component: {fileID: 6932987079692465309}
   - component: {fileID: 8856953000966586290}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Copa2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -19924,7 +19962,7 @@ GameObject:
   - component: {fileID: 1420300375538938858}
   - component: {fileID: 5573646752492087642}
   - component: {fileID: 1993879191897366485}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: pCylinder11
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -20014,7 +20052,7 @@ GameObject:
   - component: {fileID: 7625382286539490296}
   - component: {fileID: 8812671822014642384}
   - component: {fileID: 7070708824306011566}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Tronco3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -20104,7 +20142,7 @@ GameObject:
   - component: {fileID: 3138422379078154059}
   - component: {fileID: 8466367789883695983}
   - component: {fileID: 2631094768687556535}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: pCylinder18
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -20194,7 +20232,7 @@ GameObject:
   - component: {fileID: 7225395866708664306}
   - component: {fileID: 8636753854605960410}
   - component: {fileID: 8049968542083846564}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Tronco3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -20284,7 +20322,7 @@ GameObject:
   - component: {fileID: 7201486975602818734}
   - component: {fileID: 510319539078999225}
   - component: {fileID: 13749110746660998}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Tronco
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -20374,7 +20412,7 @@ GameObject:
   - component: {fileID: 3915649165038021442}
   - component: {fileID: 1741590311695880287}
   - component: {fileID: 3877625544454993229}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Copa4
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -20464,7 +20502,7 @@ GameObject:
   - component: {fileID: 8578529593226853924}
   - component: {fileID: 4148984714579443243}
   - component: {fileID: 481186351038086074}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Copa1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -20555,7 +20593,7 @@ GameObject:
   - component: {fileID: 4674914664766406747}
   - component: {fileID: 7423151920224302225}
   - component: {fileID: 7966911619066823286}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Valla_Torrats
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -20667,7 +20705,7 @@ GameObject:
   - component: {fileID: 6962921774036331545}
   - component: {fileID: 8662086690351173561}
   - component: {fileID: 3057248445539778062}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Copa3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -20757,7 +20795,7 @@ GameObject:
   - component: {fileID: 4337295044532515798}
   - component: {fileID: 2750204592497066735}
   - component: {fileID: 5097267274012772374}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Copa2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -20845,7 +20883,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1545153636566721437}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Tree4 (9)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -20884,7 +20922,7 @@ GameObject:
   - component: {fileID: 3626503389079975578}
   - component: {fileID: 6691101649487006537}
   - component: {fileID: 6964307184240894612}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Tronco
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -20974,7 +21012,7 @@ GameObject:
   - component: {fileID: 8408784187753083068}
   - component: {fileID: 4836262640676159257}
   - component: {fileID: 7275895560122289107}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: terreno5 (3)
   m_TagString: Floor
   m_Icon: {fileID: 0}
@@ -21118,6 +21156,10 @@ PrefabInstance:
       value: Rock1 (7)
       objectReference: {fileID: 0}
     - target: {fileID: 4185376659422493462, guid: 3dfd41f8cac604e42b5422bc5b79cd3b, type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 4185376659422493462, guid: 3dfd41f8cac604e42b5422bc5b79cd3b, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 2147483647
       objectReference: {fileID: 0}
@@ -21226,6 +21268,10 @@ PrefabInstance:
       value: Rock1
       objectReference: {fileID: 0}
     - target: {fileID: 4185376659422493462, guid: 3dfd41f8cac604e42b5422bc5b79cd3b, type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 4185376659422493462, guid: 3dfd41f8cac604e42b5422bc5b79cd3b, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 2147483647
       objectReference: {fileID: 0}
@@ -21332,6 +21378,10 @@ PrefabInstance:
     - target: {fileID: 4185376659422493462, guid: 3dfd41f8cac604e42b5422bc5b79cd3b, type: 3}
       propertyPath: m_Name
       value: Rock1 (5)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4185376659422493462, guid: 3dfd41f8cac604e42b5422bc5b79cd3b, type: 3}
+      propertyPath: m_Layer
+      value: 7
       objectReference: {fileID: 0}
     - target: {fileID: 4185376659422493462, guid: 3dfd41f8cac604e42b5422bc5b79cd3b, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -21443,7 +21493,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8405006914296465955, guid: 80e2e4fa37852d348919ba92679b276f, type: 3}
       propertyPath: m_Layer
-      value: 0
+      value: 7
       objectReference: {fileID: 0}
     m_RemovedComponents:
     - {fileID: 8432616278334645965, guid: 80e2e4fa37852d348919ba92679b276f, type: 3}
@@ -21552,6 +21602,10 @@ PrefabInstance:
       value: Rock1 (1)
       objectReference: {fileID: 0}
     - target: {fileID: 4185376659422493462, guid: 3dfd41f8cac604e42b5422bc5b79cd3b, type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 4185376659422493462, guid: 3dfd41f8cac604e42b5422bc5b79cd3b, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 2147483647
       objectReference: {fileID: 0}
@@ -21658,6 +21712,10 @@ PrefabInstance:
     - target: {fileID: 4185376659422493462, guid: 3dfd41f8cac604e42b5422bc5b79cd3b, type: 3}
       propertyPath: m_Name
       value: Rock1 (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4185376659422493462, guid: 3dfd41f8cac604e42b5422bc5b79cd3b, type: 3}
+      propertyPath: m_Layer
+      value: 7
       objectReference: {fileID: 0}
     - target: {fileID: 4185376659422493462, guid: 3dfd41f8cac604e42b5422bc5b79cd3b, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -21772,6 +21830,10 @@ PrefabInstance:
       value: Gradas_low
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: cba5b23323e41234da7fd1e15dc426ed, type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: cba5b23323e41234da7fd1e15dc426ed, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 2147483647
       objectReference: {fileID: 0}
@@ -21826,6 +21888,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Agua
       objectReference: {fileID: 0}
+    - target: {fileID: 2446759791574290808, guid: 65c33c7d19148f247a7deedb611ce1a8, type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
     - target: {fileID: 3869879739651794871, guid: 65c33c7d19148f247a7deedb611ce1a8, type: 3}
       propertyPath: m_LocalPosition.x
       value: -18.8
@@ -21866,7 +21932,12 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    - target: {fileID: 4965532344533870363, guid: 65c33c7d19148f247a7deedb611ce1a8, type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
+    m_RemovedComponents:
+    - {fileID: 577946771324084950, guid: 65c33c7d19148f247a7deedb611ce1a8, type: 3}
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
     m_AddedComponents: []
@@ -21942,7 +22013,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2854311775021407109, guid: add22df36e2dbfe4481ab1f5dfc8c9b7, type: 3}
       propertyPath: m_Layer
-      value: 0
+      value: 7
       objectReference: {fileID: 0}
     - target: {fileID: 3908141347119546165, guid: add22df36e2dbfe4481ab1f5dfc8c9b7, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
@@ -22023,6 +22094,10 @@ PrefabInstance:
       value: Rock1 (2)
       objectReference: {fileID: 0}
     - target: {fileID: 4185376659422493462, guid: 3dfd41f8cac604e42b5422bc5b79cd3b, type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 4185376659422493462, guid: 3dfd41f8cac604e42b5422bc5b79cd3b, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 2147483647
       objectReference: {fileID: 0}
@@ -22075,6 +22150,10 @@ PrefabInstance:
     m_TransformParent: {fileID: 6066616387949743727}
     m_Modifications:
     - target: {fileID: 16085878881858246, guid: afd7502102afe3e4a8c2ca4e28f5c1a4, type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 16085878881858246, guid: afd7502102afe3e4a8c2ca4e28f5c1a4, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 2147483647
       objectReference: {fileID: 0}
@@ -22082,9 +22161,21 @@ PrefabInstance:
       propertyPath: m_LocalPosition.y
       value: -2.6
       objectReference: {fileID: 0}
+    - target: {fileID: 1704527324680225933, guid: afd7502102afe3e4a8c2ca4e28f5c1a4, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -2.59
+      objectReference: {fileID: 0}
+    - target: {fileID: 2589252357635157224, guid: afd7502102afe3e4a8c2ca4e28f5c1a4, type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
     - target: {fileID: 2589252357635157224, guid: afd7502102afe3e4a8c2ca4e28f5c1a4, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 2621410044473144459, guid: afd7502102afe3e4a8c2ca4e28f5c1a4, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -2.6
       objectReference: {fileID: 0}
     - target: {fileID: 3190110144580108033, guid: afd7502102afe3e4a8c2ca4e28f5c1a4, type: 3}
       propertyPath: m_LocalScale.x
@@ -22139,28 +22230,56 @@ PrefabInstance:
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 3198556928524027338, guid: afd7502102afe3e4a8c2ca4e28f5c1a4, type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 3198556928524027338, guid: afd7502102afe3e4a8c2ca4e28f5c1a4, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 3385435492987486059, guid: afd7502102afe3e4a8c2ca4e28f5c1a4, type: 3}
+      propertyPath: m_Layer
+      value: 7
       objectReference: {fileID: 0}
     - target: {fileID: 3385435492987486059, guid: afd7502102afe3e4a8c2ca4e28f5c1a4, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 3880237870342736863, guid: afd7502102afe3e4a8c2ca4e28f5c1a4, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -2.58
+      objectReference: {fileID: 0}
+    - target: {fileID: 3880237870342736863, guid: afd7502102afe3e4a8c2ca4e28f5c1a4, type: 3}
       propertyPath: m_LocalPosition.z
       value: 1.55
+      objectReference: {fileID: 0}
+    - target: {fileID: 4007021159426973000, guid: afd7502102afe3e4a8c2ca4e28f5c1a4, type: 3}
+      propertyPath: m_Layer
+      value: 7
       objectReference: {fileID: 0}
     - target: {fileID: 4007021159426973000, guid: afd7502102afe3e4a8c2ca4e28f5c1a4, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 5339051897567466117, guid: afd7502102afe3e4a8c2ca4e28f5c1a4, type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 5339051897567466117, guid: afd7502102afe3e4a8c2ca4e28f5c1a4, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 6256231518535980807, guid: afd7502102afe3e4a8c2ca4e28f5c1a4, type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 6256231518535980807, guid: afd7502102afe3e4a8c2ca4e28f5c1a4, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 6339805807463889700, guid: afd7502102afe3e4a8c2ca4e28f5c1a4, type: 3}
+      propertyPath: m_Layer
+      value: 7
       objectReference: {fileID: 0}
     - target: {fileID: 6339805807463889700, guid: afd7502102afe3e4a8c2ca4e28f5c1a4, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -22175,12 +22294,20 @@ PrefabInstance:
       value: Porteria
       objectReference: {fileID: 0}
     - target: {fileID: 7267431994516729389, guid: afd7502102afe3e4a8c2ca4e28f5c1a4, type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 7267431994516729389, guid: afd7502102afe3e4a8c2ca4e28f5c1a4, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 7270678238065354412, guid: afd7502102afe3e4a8c2ca4e28f5c1a4, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 8548114245718840162, guid: afd7502102afe3e4a8c2ca4e28f5c1a4, type: 3}
+      propertyPath: m_Layer
+      value: 7
       objectReference: {fileID: 0}
     - target: {fileID: 8548114245718840162, guid: afd7502102afe3e4a8c2ca4e28f5c1a4, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -22191,11 +22318,17 @@ PrefabInstance:
       value: -2.6
       objectReference: {fileID: 0}
     - target: {fileID: 9133924837692207521, guid: afd7502102afe3e4a8c2ca4e28f5c1a4, type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 9133924837692207521, guid: afd7502102afe3e4a8c2ca4e28f5c1a4, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
-    m_RemovedGameObjects: []
+    m_RemovedGameObjects:
+    - {fileID: 6426078710126171462, guid: afd7502102afe3e4a8c2ca4e28f5c1a4, type: 3}
+    - {fileID: 7270678238065354412, guid: afd7502102afe3e4a8c2ca4e28f5c1a4, type: 3}
     m_AddedGameObjects:
     - targetCorrespondingSourceObject: {fileID: 3190110144580108033, guid: afd7502102afe3e4a8c2ca4e28f5c1a4, type: 3}
       insertIndex: -1
@@ -22282,7 +22415,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8405006914296465955, guid: 80e2e4fa37852d348919ba92679b276f, type: 3}
       propertyPath: m_Layer
-      value: 0
+      value: 7
       objectReference: {fileID: 0}
     m_RemovedComponents:
     - {fileID: 6034790877708245603, guid: 80e2e4fa37852d348919ba92679b276f, type: 3}
